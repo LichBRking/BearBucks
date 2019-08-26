@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BearBucks</string>
+    <string name="leite_INorDES">Leite desnatado?</string>
+    <string name="seuCAFE">Escolha seu cafe:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="pedido">Estamos quase acabando, eu juro!</string>
+    <string name="nome">Nome</string>
+    <string name="mesa">Mesa</string>
+
+    <string-array name="cafes">
+        <item>Café com leite</item>
+        <item>macchiato</item>
+        <item>Moca</item>
+        <item>Capuccino</item>
+        <item>Latte</item>
+    </string-array>
+</resources>
